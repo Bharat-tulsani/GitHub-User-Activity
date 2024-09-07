@@ -33,6 +33,8 @@ node .\index.js Bharat-tulsani
 **Error Handling**
 The application handles errors gracefully by:
 
-Checking if a username is provided.
-Handling invalid usernames or API request failures.
-Parsing JSON responses safely.
+i)Checking if a username is provided.
+ii)Handling invalid usernames or API request failures.
+iii)Parsing JSON responses safely.
+
+**Project URL:https://roadmap.sh/projects/task-tracker**
