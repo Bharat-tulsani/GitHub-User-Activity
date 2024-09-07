@@ -37,4 +37,4 @@ i)Checking if a username is provided.
 ii)Handling invalid usernames or API request failures.
 iii)Parsing JSON responses safely.
 
-**Project URL:https://roadmap.sh/projects/task-tracker**
+**Project URL:https://roadmap.sh/projects/github-user-activity**
